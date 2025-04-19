@@ -1,0 +1,5 @@
+A persistência realiza o impossível.
+Cada commit é um passo rumo à perfeição.
+Código limpo, mente tranquila.
+Errar faz parte do processo. Corrigir também.
+Refatorar é amar o próprio código.
